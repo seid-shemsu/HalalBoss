@@ -1,4 +1,4 @@
-package com.izhar.halalboss.adapters;
+package com.izhar.halalboss.ui.home;
 
 import android.content.Context;
 import android.graphics.Bitmap;
